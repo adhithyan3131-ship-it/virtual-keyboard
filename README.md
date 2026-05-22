@@ -29,7 +29,7 @@ How to Run
 
 Install Python (if not installed)
 
-Run these commands below:
+# Run these commands below:
 
 git clone [https://github.com/adhithyan3131-ship-it/virtual-keyboard.git](https://github.com/adhithyan3131-ship-it/virtual-keyboard.git)
 
