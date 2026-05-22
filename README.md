@@ -29,13 +29,10 @@ How to Run
 
 Install Python (if not installed)
 
-Download or clone this repository:
+Run these commands below:
 
 git clone [https://github.com/adhithyan3131-ship-it/virtual-keyboard.git](https://github.com/adhithyan3131-ship-it/virtual-keyboard.git)
 
-
-Open the folder
-
-Run the project:
+cd virtual-keyboard
 
 python main.py
