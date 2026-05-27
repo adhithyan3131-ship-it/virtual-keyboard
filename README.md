@@ -19,7 +19,7 @@ This project simulates a real keyboard on the screen and allows users to type us
 
 Project Structure
 virtual-keyboard/
-│
+
 ├── main.py       
 ├── assets/            
 └── screenshots/       
